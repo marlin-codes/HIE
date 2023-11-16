@@ -59,15 +59,10 @@ results: 0.7780, 0.7990, 0.7900
 \
 results: 0.9389, 0.9427, 0.9447
 
-#### 3.4 Run HGCN on Disease dataset
+#### 3.5 Run HGCN on Disease dataset
 `bash examples/icml2023/hgnn/HGCN/batch_disease_8.sh`
 \
 results: 0.8936, 0.8696, 0.9318
-
-#### 3.5 Run HGCN on Disease dataset
-`bash examples/icml2023/hgnn/HGCN/batch_disease_256.sh`
-\
-results: 0.9474, 0.9328, 0.9569
 
 Please check the folder of examples for more usages of the codes.
 <a name="citation"/>
