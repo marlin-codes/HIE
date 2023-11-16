@@ -76,15 +76,15 @@ Please check the folder of examples for more usages of the codes.
 
 If you find this code useful in your research, please cite the following paper:
 
-@inproceedings{yang2023hyperbolic,
-author = {Yang, Menglin and Zhou, Min and Ying, Rex and Chen, Yankai and King, Irwin},
-title = {Hyperbolic Representation Learning: Revisiting and Advancing},
-year = {2023},
-booktitle = {Proceedings of the 40th International Conference on Machine Learning},
-articleno = {1654},
-numpages = {21},
-location = {Honolulu, Hawaii, USA},
-series = {ICML'23}
+@inproceedings{yang2023hyperbolic, \
+author = {Yang, Menglin and Zhou, Min and Ying, Rex and Chen, Yankai and King, Irwin},\
+title = {Hyperbolic Representation Learning: Revisiting and Advancing},\
+year = {2023},\
+booktitle = {Proceedings of the 40th International Conference on Machine Learning},\
+articleno = {1654},\
+numpages = {21},\
+location = {Honolulu, Hawaii, USA},\
+series = {ICML'23}\
 }
 
 
